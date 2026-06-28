@@ -1,0 +1,101 @@
+Date,Product_Name,Category,Region,Quantity,Unit_Price,Total_Sales,Customer_ID
+2026-01-01,Laptop Pro,Electronics,North,5,1200,6000,C001
+2026-01-01,USB Cable,Accessories,South,15,5,75,C002
+2026-01-01,Wireless Mouse,Electronics,East,8,25,200,C003
+2026-01-02,Office Chair,Furniture,West,3,300,900,C004
+2026-01-02,Desk Lamp,Furniture,North,12,45,540,C005
+2026-01-03,Monitor 27inch,Electronics,South,4,350,1400,C006
+2026-01-03,Keyboard Mechanical,Electronics,East,10,80,800,C007
+2026-01-04,Laptop Pro,Electronics,North,6,1200,7200,C008
+2026-01-04,Phone Stand,Accessories,West,20,15,300,C009
+2026-01-05,Headphones,Electronics,South,9,120,1080,C010
+2026-01-05,USB Hub,Accessories,East,25,30,750,C011
+2026-01-06,Monitor 27inch,Electronics,North,3,350,1050,C012
+2026-01-06,Office Chair,Furniture,West,5,300,1500,C013
+2026-01-07,Wireless Mouse,Electronics,South,12,25,300,C014
+2026-01-07,Desk Lamp,Furniture,East,8,45,360,C015
+2026-01-08,Laptop Pro,Electronics,West,4,1200,4800,C016
+2026-01-08,Phone Stand,Accessories,North,18,15,270,C017
+2026-01-09,Keyboard Mechanical,Electronics,South,7,80,560,C018
+2026-01-09,USB Cable,Accessories,East,30,5,150,C019
+2026-01-10,Headphones,Electronics,North,6,120,720,C020
+2026-01-10,Desk Lamp,Furniture,West,10,45,450,C021
+2026-01-11,Monitor 27inch,Electronics,South,5,350,1750,C022
+2026-01-11,Office Chair,Furniture,East,4,300,1200,C023
+2026-01-12,Wireless Mouse,Electronics,West,15,25,375,C024
+2026-01-12,USB Hub,Accessories,North,28,30,840,C025
+2026-01-13,Laptop Pro,Electronics,East,3,1200,3600,C026
+2026-01-13,Phone Stand,Accessories,South,22,15,330,C027
+2026-01-14,Keyboard Mechanical,Electronics,North,9,80,720,C028
+2026-01-14,Headphones,Electronics,West,8,120,960,C029
+2026-01-15,Monitor 27inch,Electronics,South,4,350,1400,C030
+2026-01-15,Desk Lamp,Furniture,East,11,45,495,C031
+2026-01-16,Office Chair,Furniture,North,6,300,1800,C032
+2026-01-16,USB Cable,Accessories,West,35,5,175,C033
+2026-01-17,Wireless Mouse,Electronics,South,10,25,250,C034
+2026-01-17,USB Hub,Accessories,East,26,30,780,C035
+2026-01-18,Laptop Pro,Electronics,North,5,1200,6000,C036
+2026-01-18,Phone Stand,Accessories,West,19,15,285,C037
+2026-01-19,Keyboard Mechanical,Electronics,South,8,80,640,C038
+2026-01-19,Headphones,Electronics,East,7,120,840,C039
+2026-01-20,Monitor 27inch,Electronics,West,3,350,1050,C040
+2026-02-01,Office Chair,Furniture,North,4,300,1200,C041
+2026-02-01,Desk Lamp,Furniture,South,9,45,405,C042
+2026-02-02,Laptop Pro,Electronics,East,7,1200,8400,C043
+2026-02-02,USB Cable,Accessories,West,40,5,200,C044
+2026-02-03,Wireless Mouse,Electronics,North,14,25,350,C045
+2026-02-03,Headphones,Electronics,South,10,120,1200,C046
+2026-02-04,Monitor 27inch,Electronics,East,6,350,2100,C047
+2026-02-04,USB Hub,Accessories,West,32,30,960,C048
+2026-02-05,Keyboard Mechanical,Electronics,North,11,80,880,C049
+2026-02-05,Phone Stand,Accessories,South,24,15,360,C050
+2026-02-06,Office Chair,Furniture,East,5,300,1500,C051
+2026-02-06,Desk Lamp,Furniture,West,13,45,585,C052
+2026-02-07,Laptop Pro,Electronics,South,8,1200,9600,C053
+2026-02-07,Wireless Mouse,Electronics,North,16,25,400,C054
+2026-02-08,Headphones,Electronics,East,9,120,1080,C055
+2026-02-08,Monitor 27inch,Electronics,West,4,350,1400,C056
+2026-02-09,USB Cable,Accessories,North,38,5,190,C057
+2026-02-09,Keyboard Mechanical,Electronics,South,10,80,800,C058
+2026-02-10,Phone Stand,Accessories,East,26,15,390,C059
+2026-02-10,USB Hub,Accessories,West,30,30,900,C060
+2026-02-11,Office Chair,Furniture,North,7,300,2100,C061
+2026-02-11,Desk Lamp,Furniture,South,12,45,540,C062
+2026-02-12,Laptop Pro,Electronics,East,6,1200,7200,C063
+2026-02-12,Wireless Mouse,Electronics,West,13,25,325,C064
+2026-02-13,Headphones,Electronics,North,8,120,960,C065
+2026-02-13,Monitor 27inch,Electronics,South,5,350,1750,C066
+2026-02-14,Keyboard Mechanical,Electronics,East,12,80,960,C067
+2026-02-14,USB Cable,Accessories,West,42,5,210,C068
+2026-02-15,Phone Stand,Accessories,North,20,15,300,C069
+2026-02-15,USB Hub,Accessories,South,29,30,870,C070
+2026-02-16,Office Chair,Furniture,East,4,300,1200,C071
+2026-02-16,Desk Lamp,Furniture,North,10,45,450,C072
+2026-02-17,Laptop Pro,Electronics,West,9,1200,10800,C073
+2026-02-17,Wireless Mouse,Electronics,South,17,25,425,C074
+2026-02-18,Headphones,Electronics,East,11,120,1320,C075
+2026-02-18,Monitor 27inch,Electronics,North,7,350,2450,C076
+2026-02-19,Keyboard Mechanical,Electronics,South,9,80,720,C077
+2026-02-19,USB Cable,Accessories,East,36,5,180,C078
+2026-02-20,Phone Stand,Accessories,West,23,15,345,C079
+2026-02-20,USB Hub,Accessories,North,31,30,930,C080
+2026-03-01,Office Chair,Furniture,South,6,300,1800,C081
+2026-03-01,Desk Lamp,Furniture,East,11,45,495,C082
+2026-03-02,Laptop Pro,Electronics,North,10,1200,12000,C083
+2026-03-02,Wireless Mouse,Electronics,West,18,25,450,C084
+2026-03-03,Headphones,Electronics,South,12,120,1440,C085
+2026-03-03,Monitor 27inch,Electronics,East,8,350,2800,C086
+2026-03-04,Keyboard Mechanical,Electronics,West,13,80,1040,C087
+2026-03-04,USB Cable,Accessories,North,44,5,220,C088
+2026-03-05,Phone Stand,Accessories,South,25,15,375,C089
+2026-03-05,USB Hub,Accessories,East,33,30,990,C090
+2026-03-06,Office Chair,Furniture,West,8,300,2400,C091
+2026-03-06,Desk Lamp,Furniture,North,14,45,630,C092
+2026-03-07,Laptop Pro,Electronics,South,7,1200,8400,C093
+2026-03-07,Wireless Mouse,Electronics,East,19,25,475,C094
+2026-03-08,Headphones,Electronics,West,10,120,1200,C095
+2026-03-08,Monitor 27inch,Electronics,North,6,350,2100,C096
+2026-03-09,Keyboard Mechanical,Electronics,South,11,80,880,C097
+2026-03-09,USB Cable,Accessories,West,39,5,195,C098
+2026-03-10,Phone Stand,Accessories,North,21,15,315,C099
+2026-03-10,USB Hub,Accessories,South,28,30,840,C100
